@@ -1,1 +1,2 @@
-# GameReview-strapi-react
+# GameReview Project
+# With strapi(headless CMS) and React.js
